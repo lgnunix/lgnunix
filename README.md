@@ -1,6 +1,7 @@
 - #lgnunix
 - software para sistema gnu linux 
-- 
+- [![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://www.youtube.com/watch?v=kNHYKyNpIcA)
+
 - 
 - 👋 Hi, I’m @lgnunix
 - 👀 scripts en basch tlc perl...
